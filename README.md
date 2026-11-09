@@ -1,33 +1,31 @@
-### Hi there 👋
+# 👋 Hi there!
 
 ## Backend-Heavy Full-Stack Developer
 
 ---
 
-<div align="left">
+I'm **Onatade Abdulmajeed**, a Backend-Heavy Full-Stack Developer passionate about building reliable systems and applications that solve real-world problems.
 
-I'm **Onatade Abdulmajeed**, a passionate Backend-Heavy Full-Stack Developer and Software Engineering student at **NIIT, Nigeria**, with a strong interest in building reliable systems and applications that solve real-world problems.
+I enjoy working across the software development lifecycle, from designing clean APIs and integrating databases to building user interfaces, debugging complex issues, and deploying applications. I'm particularly interested in backend engineering, system design, and building scalable, maintainable software.
 
-I'm driven by growth and impact — whether it's designing clean APIs, integrating databases, debugging complex issues, or turning ideas into functional software, I enjoy learning by building and continuously improving my craft as an engineer.
-
-I believe in consistency, curiosity, and learning in public. I'm currently documenting my journey through **#100DaysOfCode**, building real-world projects, and deepening my understanding of backend engineering and modern deployment workflows.
+I believe in consistency, curiosity, and continuous learning. Through personal projects, collaboration, and building in public, I continue to strengthen my engineering skills and explore better ways to build and deliver software.
 
 ---
 
 ### 🚀 What I Work With
 
-* 🖥️ **Frontend**: React, HTML5, CSS3, TailwindCSS, BootStrap, JSP
-* 🛠️ **Backend**: Java, Spring, Spring Boot, Hibernate, Node.js, Express.js, Python
-* 🗄️ **Databases**: MySQL, MongoDB, PostGreSQL
-* 🔧 **Tools & DevOps**: Git, GitHub, Docker, AWS, Apache Tomcat, Maven, Postman, IntelliJ IDEA, VS Code
+- 🖥️ **Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, JSP
+- 🛠️ **Backend:** Java, Spring, Spring Boot, Hibernate, Node.js, Express.js, Python
+- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL
+- 🔧 **Tools & DevOps:** Git, GitHub, Docker, AWS, Apache Tomcat, Maven, Postman, IntelliJ IDEA, VS Code
 
 ---
 
-I enjoy building applications from idea to deployment, solving challenging problems through code, and continuously strengthening my software engineering skills. Whether working independently or collaborating with others, I bring a proactive mindset, a willingness to learn, and a commitment to writing clean, maintainable, and reliable software.
+I enjoy building applications from idea to deployment, solving challenging problems through code, and continuously improving my approach to software engineering.
+
+Whether working independently or collaborating with a team, I bring a proactive mindset, a willingness to learn, and a commitment to writing clean, maintainable, and reliable software.
 
 **Let's connect and build something meaningful together.**
-
-</div>
 
 ---
 
@@ -65,9 +63,9 @@ I enjoy building applications from idea to deployment, solving challenging probl
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spider1201\&count_private=true\&show_icons=true\&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spider1201&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spider1201\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spider1201&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Spider1201)
 
@@ -81,21 +79,5 @@ I enjoy building applications from idea to deployment, solving challenging probl
 
 <p align="center">
   <a href="https://www.linkedin.com/in/onatade-abdulmajeed/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/spider337761"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://x.com/spider337761"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-
-
-<!--
-**Spider1201/Spider1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
