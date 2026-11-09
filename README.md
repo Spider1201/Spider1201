@@ -17,7 +17,7 @@ I believe in consistency, curiosity, and continuous learning. Through personal p
 - 🖥️ **Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, JSP
 - 🛠️ **Backend:** Java, Spring, Spring Boot, Hibernate, Node.js, Express.js, Python
 - 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL
-- 🔧 **Tools & DevOps:** Git, GitHub, Docker, AWS, Apache Tomcat, Maven, Postman, IntelliJ IDEA, VS Code
+- 🔧 **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, AWS, Apache Tomcat, Maven, Postman, IntelliJ IDEA, VS Code
 
 ---
 
