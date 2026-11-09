@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# Hi there
 
 ## Backend-Heavy Full-Stack Developer
 
