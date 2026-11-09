@@ -12,7 +12,7 @@ I believe in consistency, curiosity, and continuous learning. Through personal p
 
 ---
 
-### 🚀 What I Work With
+###  What I Work With
 
 - 🖥️ **Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, JSP
 - 🛠️ **Backend:** Java, Spring, Spring Boot, Hibernate, Node.js, Express.js, Python
